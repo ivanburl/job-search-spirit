@@ -1,0 +1,12 @@
+{
+  "name": "job-search-spirit",
+  "version": "0.1.0",
+  "description": "Job Search Spirit plugin scaffold.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "requires_local_executor": true,
+  "interface": {
+    "displayName": "Job Search Spirit",
+    "shortDescription": "Job search workflows and tools"
+  }
+}
